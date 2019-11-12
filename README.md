@@ -6,7 +6,7 @@ The work has been published. If you use the code for your research, please cite 
 Yuexing Han, Chuanbin Lai, Bing Wang*, Tianyi Hu, Dongli Hu and Hui Gu. Segmentation and Analysis Method for Two-Phase Ceramic (HfB2-B4C) Based on the Detection of Virtual Boundaries [J]. Image Analysis & Stereology, Vol. 38, No. 1, 95-105, 2019
 
 
-My e-mail address: hanyuexing@gmail.com
+E-mail address of Han Yuexing: hanyuexing@gmail.com
 
 
 
